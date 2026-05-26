@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 env:
-  DEV_REPO: docker.io/devopscube/web-app-dev
+  DEV_REPO: rahul418282/github-action-test-repo
 
 jobs:
   build_and_push:
